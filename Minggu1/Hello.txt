@@ -1,0 +1,9 @@
+CARA PUSH FILE KE GITHUB :
+(-) pilih folder yang ingin di push ke github
+(-) klik kanan pilih git bash here
+(-) kemudian ketikkan seperti yang dibawah
+(-) git init
+(-) git add README.md
+(-) git commit -m "First commit"
+(-) git remote add origin https://github.com/zalllrizalll/Pem-Web2021.git
+(-) git push -u origin master
